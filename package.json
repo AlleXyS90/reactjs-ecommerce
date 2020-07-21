@@ -5,6 +5,7 @@
   "dependencies": {
     "@csstools/normalize.css": "github:csstools/normalize.css",
     "autoprefixer": "^9.8.0",
+    "firebase": "^7.16.1",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
